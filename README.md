@@ -319,29 +319,29 @@ Contributions are welcome!
 1. Fork the repository.
 2. Create a new branch.
 
-```bash
-git checkout -b feature/my-feature
-```
+    ```bash
+    git checkout -b feature/my-feature
+    ```
 
 3. Make your changes.
 4. Run the tests.
 
-```bash
-pytest
-```
+    ```bash
+    pytest
+    ```
 
 5. Commit your changes.
 
-```bash
-git add .
-git commit -m "Add new feature"
-```
+    ```bash
+    git add .
+    git commit -m "Add new feature"
+    ```
 
 6. Push the branch.
 
-```bash
-git push origin feature/my-feature
-```
+    ```bash
+    git push origin feature/my-feature
+    ```
 
 7. Open a Pull Request.
 
