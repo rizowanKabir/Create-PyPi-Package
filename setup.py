@@ -8,7 +8,7 @@ __version__ = "0.0.4"
 REPO_NAME = "Create-PyPi-Package"
 AUTHOR_USER_NAME = "rizowanKabir"
 AUTHOR_EMAIL = "sohagrizowan@gmail.com"
-SRC_REPO = "PyInception"
+SRC_REPO = "PyInception-riz"
 
 setuptools.setup(
     name=SRC_REPO,
