@@ -317,32 +317,11 @@ Contains additional dependencies useful for development and testing.
 Contributions are welcome!
 
 1. Fork the repository.
-2. Create a new branch.
-
-    ```bash
-    git checkout -b feature/my-feature
-    ```
-
+2. Create a new branch: `git checkout -b feature/my-feature`
 3. Make your changes.
-4. Run the tests.
-
-    ```bash
-    pytest
-    ```
-
-5. Commit your changes.
-
-    ```bash
-    git add .
-    git commit -m "Add new feature"
-    ```
-
-6. Push the branch.
-
-    ```bash
-    git push origin feature/my-feature
-    ```
-
+4. Run the tests: `pytest`
+5. Commit your changes: `git commit -m "Add new feature"`
+6. Push to the branch: `git push origin feature/my-feature`
 7. Open a Pull Request.
 
 ---
